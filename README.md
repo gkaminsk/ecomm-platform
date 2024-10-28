@@ -7,9 +7,7 @@ customers with a list of all of their transactions as a PDF.
 ## Feature
 Provided solution is just a shell of the application with a high-level design and architecture of the application, demonstrating how the components interact and communicate.
 
-
-All data repositories are mocked.
-Functionality implementoed only in **Product**, **Cart** and **Inventory** services.\
+All data repositories are mocked. Functionality implementoed only in **Product**, **Cart** and **Inventory** services.\
 **Cart** service may be used as an entry point for testing purposes.
 
 **Component Diagram: The Structural Overview**
