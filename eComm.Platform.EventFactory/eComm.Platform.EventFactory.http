@@ -1,6 +1,0 @@
-@eComm.Platform.EventFactory_HostAddress = http://localhost:5008
-
-GET {{eComm.Platform.EventFactory_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
